@@ -77,7 +77,13 @@ PiggyBank Pro is a full featured personal finance Android app designed for users
 
 ## 📸 Screenshots
 
-![PiggyBank Pro Home Screen](Screen%20Shot)
+| Dashboard | Dark Mode |
+|-----------|-----------|
+| ![Dashboard](screenshots/Dashboard.png) | ![Dark Mode](screenshots/Dark%20mode.png) |
+
+| PIN Screen | Lockout Screen |
+|------------|-----------------|
+| ![PIN Screen](screenshots/Pin%20Screen.png) | ![Lockout Screen](screenshots/Lockout%20Screen.png) |
 
 ---
 
